@@ -42,6 +42,8 @@
   "delete_tooltip": "Xóa",
   "close_tooltip": "Đóng",
 
+  "title": "Tiêu đề...",
+  "content": "Nội dung...",
   "an_error": "Có lỗi xảy ra",
   "get_note_failed": "Lấy ghi chú thất bại",
   "error_details": "Chi tiết lỗi:",

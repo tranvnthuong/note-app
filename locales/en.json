@@ -42,6 +42,8 @@
   "delete_tooltip": "Delete",
   "close_tooltip": "Close",
 
+  "title": "Title...",
+  "content": "Content...",
   "an_error": "An error occurred",
   "get_note_failed": "Failed to retrieve note",
   "error_details": "Error details:",
