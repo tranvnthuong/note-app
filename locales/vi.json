@@ -54,6 +54,7 @@
   "cancel": "Hủy",
   "delete": "Xóa",
   "wait_a_few_second": "Xin chờ vài giây",
+  "wait_for_response": "Đang chờ phản hồi từ máy chủ",
   "sharing_error": "Lỗi chia sẻ",
   "captcha_require": "Hãy nhập mã xác minh",
   "wrong_captcha": "Mã xác minh sai",

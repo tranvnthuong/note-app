@@ -54,6 +54,7 @@
   "cancel": "Cancel",
   "delete": "Delete",
   "wait_a_few_second": "Please wait a few seconds",
+  "wait_for_response": "Waiting for server response",
   "sharing_error": "Sharing error",
   "captcha_require": "Please enter the verification code",
   "wrong_captcha": "Incorrect verification code",
